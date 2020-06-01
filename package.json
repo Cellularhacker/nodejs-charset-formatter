@@ -5,5 +5,8 @@
   "repository": "https://github.com/Cellularhacker/nodejs-charset-formatter.git",
   "author": "Cellularhacker <wva3cdae@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "detect-character-encoding": "^0.8.0"
+  }
 }
