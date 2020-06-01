@@ -7,6 +7,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "detect-character-encoding": "^0.8.0"
+    "detect-character-encoding": "^0.8.0",
+    "iconv-lite": "^0.5.1"
   }
 }
