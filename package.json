@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-charset-formatter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Cellularhacker/nodejs-charset-formatter.git",
+  "author": "Cellularhacker <wva3cdae@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
